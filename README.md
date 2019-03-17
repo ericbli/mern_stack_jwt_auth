@@ -1,2 +1,2 @@
 # mern_stack_jwt_auth
-mern_stack_jwt_auth
+mern_stack_jwt_auth shoppinglist
